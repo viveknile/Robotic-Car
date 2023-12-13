@@ -1,5 +1,25 @@
 # Robotic-Car
 
-# Introducation
-In the last decade, with the development of technology, sensors used with electronic devices have been used in many areas to facilitate life. Sensors are devices that convert energy forms into electrical energy. The sensors serve as a bridge connecting the environment and various electronic devices. The environment can be any physical environment such as military areas, airports, factories, hospitals, shopping malls, and electronic devices can be smartphones, robots, tablets, smart clocks. These devices have a wide range of applications to control, protect, image and identification in the industrial process. Today, there are hundreds of types of sensors produced by the development of technology such as heat, pressure, obstacle recognizer, human detecting. Sensors were used for lighting purposes in the past, but now they are used to make life easier. Thanks to technology in the field of electronics, incredibly fast developments are experienced. In this respect, it is possible to develop a new invention or a new application in every day and make life easier. Today, robot systems are developed with the use of artificial intelligence algorithms. The robotics field is one of them. The most important part of the robot is the perception. Perceive of the environment will be important for a robot design. For instance, it is very important to identify explosives by a robot to detect a terrorist in the military field by using sensors. A robot has to perceive some variables (like heat changes) around it, interpret it, and then decide to act accordingly. In this article, remote and autonomous controlled robotic car has been presented in terms of obstacle detection and avoidance by using sensors. The connection between the robot and the Android device has been established via Bluetooth technology. The incoming data will be processed by Arduino Uno and according to the input value of the user, robot action can be performed.
- 
+# Features
+-Safety
+-Autonomous Navigation
+-Efficiency
+-Versatility
+-User-Friendly
+-Real-Time Decision Making
+
+## Permissions
+
+ - Give the divce access
+    
+- Required good internate connection and give the internate access
+  Permissions
+## Support
+
+If you encounter any issues while using Sneaky or have any suggestions for improvement, please don't hesitate to contact our support team at viveknile8089@gmail.com.
+
+
+## Authors
+
+- Vivek Nile(Project Lead)
+
